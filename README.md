@@ -10,7 +10,8 @@ Hello，各位小伙伴好啊，作为一名退役的考研选手，深知考研
 
 
 
-深知一个人的能力有限，如果觉得哪些写得不对，希望大家踊跃提供意见，欢迎大家issue或者提交文件，一起构建一个好用的项目。
+>深知一个人的能力有限，如果觉得哪些写得不对，希望大家踊跃提供意见，欢迎大家issue或者提交文件，一起构建一个好用的项目。
+
 <!--
 **kaoyan-guide/Kaoyan-Guide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
